@@ -11,3 +11,5 @@ python3 scriptCarpetas.py
 
 >[!TIP]
 >Si se encuentra en un sistema Windows, utilice py en lugar de python3
+
+
